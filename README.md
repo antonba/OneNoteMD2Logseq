@@ -64,4 +64,4 @@ This software carries no warranty of any kind. Some data can be lost during the 
 
 I am unlikely to be able to dedicate much or any time for supporting this.
 
-Bugs and feature requests can be reported under [Issues](https://github.com/antonba/OneNoteMD2Logseq/issues.
+Bugs and feature requests can be reported under [Issues](https://github.com/antonba/OneNoteMD2Logseq/issues).
