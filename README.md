@@ -8,9 +8,7 @@ What this tool does:
 
 This will recreate your OneNote page hierarchy from a given section within a single page in Logseq.
 
-|From||To|
-|---|---|---|
-|![](images/onenote_sample.png)|=>|![](images/export_sample.png)|
+![](images/export_sample.png)
 
 You can see that the hierarchy of pages has been transformed into a hierarchy of blocks in Logseq. This model is particularly useful for people who create a large number of small pages and use the hierarchy to organize their notes by fairly granular topics. Converting each one of these pages to a separate Markdown file will create potentially too many pages in Logseq.
 
